@@ -19,11 +19,11 @@ References & Inspiration
 ---
 These libraries helped to develop this program:
 
-*[Generic Server-Side Google Analytics PHP Client](http://code.google.com/p/gaforflash/)
-*[Google Analytics Tracking For Adobe Flash](http://code.google.com/p/gaforflash/)
-*[Server Side Google Analytics (PHP)](http://code.google.com/p/serversidegoogleanalytics/)
-*[Galvanize (PHP)](http://sourceforge.net/projects/galvanize/)
-*[Google Analytics for Mobile Websites](http://code.google.com/mobile/analytics/docs/web/)
+* [Generic Server-Side Google Analytics PHP Client](http://code.google.com/p/gaforflash/)
+* [Google Analytics Tracking For Adobe Flash](http://code.google.com/p/gaforflash/)
+* [Server Side Google Analytics (PHP)](http://code.google.com/p/serversidegoogleanalytics/)
+* [Galvanize (PHP)](http://sourceforge.net/projects/galvanize/)
+* [Google Analytics for Mobile Websites](http://code.google.com/mobile/analytics/docs/web/)
 
 Disclaimer
 ---

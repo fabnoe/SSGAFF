@@ -18,7 +18,7 @@ Getting started
 References & Inspiration
 ---
 These libraries helped to develop this program:
-
+* [Generic Server-Side Google Analytics PHP Client](http://code.google.com/p/php-ga/)
 * [Generic Server-Side Google Analytics PHP Client](http://code.google.com/p/gaforflash/)
 * [Google Analytics Tracking For Adobe Flash](http://code.google.com/p/gaforflash/)
 * [Server Side Google Analytics (PHP)](http://code.google.com/p/serversidegoogleanalytics/)

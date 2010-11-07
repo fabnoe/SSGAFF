@@ -1,7 +1,7 @@
 Server Side Google Analytics
 ===
 Server Side Google Analytics designed for Facebook applications.
-Based on: [Generic Server-Side Google Analytics PHP Client](http://example.net/)
+Based on: [Generic Server-Side Google Analytics PHP Client](http://code.google.com/p/php-ga/)
 
 Features
 ---
@@ -18,7 +18,8 @@ Getting started
 References & Inspiration
 ---
 These libraries helped to develop this program:
-*[Generic Server-Side Google Analytics PHP Client](http://example.net/)
+
+*[Generic Server-Side Google Analytics PHP Client](http://code.google.com/p/gaforflash/)
 *[Google Analytics Tracking For Adobe Flash](http://code.google.com/p/gaforflash/)
 *[Server Side Google Analytics (PHP)](http://code.google.com/p/serversidegoogleanalytics/)
 *[Galvanize (PHP)](http://sourceforge.net/projects/galvanize/)
